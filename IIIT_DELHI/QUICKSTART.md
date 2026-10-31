@@ -1,4 +1,4 @@
-# Quickstart — SIH26012 AI 3D Cadastral Mapping & Encroachment Engine
+# Quickstart — AI 3D Cadastral Mapping & Encroachment Engine
 
 Get the full stack (FastAPI + PostGIS + Next.js/CesiumJS) running locally in
 three steps.

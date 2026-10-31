@@ -1,5 +1,5 @@
-# Project: SIH26012 AI 3D Cadastral Mapping & Feature Extraction System
-You are acting as a lead GIS and AI architect assisting with a Smart India Hackathon project. We are building an automated urban parcel mapping system that processes aerial orthomosaics and DEMs (Digital Elevation Models) to extract 3D cadastral features and detect land encroachments.
+# Project: AI 3D Cadastral Mapping & Feature Extraction System
+We are building an automated urban parcel mapping system that processes aerial orthomosaics and DEMs (Digital Elevation Models) to extract 3D cadastral features and detect land encroachments.
 
 ## Core Technical Objectives
 1. 3D Cadastral Visualization: Render 3D photorealistic tiles, digital elevation models (DEM), extruded 3D building footprints, and elevated 3D parcel boundary lines using CesiumJS in a Next.js environment.
